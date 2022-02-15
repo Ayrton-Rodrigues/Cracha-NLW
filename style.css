@@ -20,7 +20,7 @@ main    {
     background: url(images/testeback.png);
     width: 375px;
     height: 812px;
-    
+    border-radius: 10px;
 }
 
 .container {
